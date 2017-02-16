@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/william/src/myTabs/platforms/android/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/william/src/myTabs/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    }
+]
